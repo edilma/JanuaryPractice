@@ -1,0 +1,11 @@
+C:\Users\Edilma\Desktop\C#Practice\JanuaryPractice\bin\Debug\netcoreapp3.0\JanuaryPractice.exe
+C:\Users\Edilma\Desktop\C#Practice\JanuaryPractice\bin\Debug\netcoreapp3.0\JanuaryPractice.deps.json
+C:\Users\Edilma\Desktop\C#Practice\JanuaryPractice\bin\Debug\netcoreapp3.0\JanuaryPractice.runtimeconfig.json
+C:\Users\Edilma\Desktop\C#Practice\JanuaryPractice\bin\Debug\netcoreapp3.0\JanuaryPractice.runtimeconfig.dev.json
+C:\Users\Edilma\Desktop\C#Practice\JanuaryPractice\bin\Debug\netcoreapp3.0\JanuaryPractice.dll
+C:\Users\Edilma\Desktop\C#Practice\JanuaryPractice\bin\Debug\netcoreapp3.0\JanuaryPractice.pdb
+C:\Users\Edilma\Desktop\C#Practice\JanuaryPractice\obj\Debug\netcoreapp3.0\JanuaryPractice.csprojAssemblyReference.cache
+C:\Users\Edilma\Desktop\C#Practice\JanuaryPractice\obj\Debug\netcoreapp3.0\JanuaryPractice.AssemblyInfoInputs.cache
+C:\Users\Edilma\Desktop\C#Practice\JanuaryPractice\obj\Debug\netcoreapp3.0\JanuaryPractice.AssemblyInfo.cs
+C:\Users\Edilma\Desktop\C#Practice\JanuaryPractice\obj\Debug\netcoreapp3.0\JanuaryPractice.dll
+C:\Users\Edilma\Desktop\C#Practice\JanuaryPractice\obj\Debug\netcoreapp3.0\JanuaryPractice.pdb
