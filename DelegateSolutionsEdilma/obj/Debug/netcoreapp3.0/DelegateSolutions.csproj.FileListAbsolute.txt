@@ -1,0 +1,11 @@
+C:\Users\Edilma\Desktop\C#Practice\DelegateSolutions\bin\Debug\netcoreapp3.0\DelegateSolutions.exe
+C:\Users\Edilma\Desktop\C#Practice\DelegateSolutions\bin\Debug\netcoreapp3.0\DelegateSolutions.deps.json
+C:\Users\Edilma\Desktop\C#Practice\DelegateSolutions\bin\Debug\netcoreapp3.0\DelegateSolutions.runtimeconfig.json
+C:\Users\Edilma\Desktop\C#Practice\DelegateSolutions\bin\Debug\netcoreapp3.0\DelegateSolutions.runtimeconfig.dev.json
+C:\Users\Edilma\Desktop\C#Practice\DelegateSolutions\bin\Debug\netcoreapp3.0\DelegateSolutions.dll
+C:\Users\Edilma\Desktop\C#Practice\DelegateSolutions\bin\Debug\netcoreapp3.0\DelegateSolutions.pdb
+C:\Users\Edilma\Desktop\C#Practice\DelegateSolutions\obj\Debug\netcoreapp3.0\DelegateSolutions.csprojAssemblyReference.cache
+C:\Users\Edilma\Desktop\C#Practice\DelegateSolutions\obj\Debug\netcoreapp3.0\DelegateSolutions.AssemblyInfoInputs.cache
+C:\Users\Edilma\Desktop\C#Practice\DelegateSolutions\obj\Debug\netcoreapp3.0\DelegateSolutions.AssemblyInfo.cs
+C:\Users\Edilma\Desktop\C#Practice\DelegateSolutions\obj\Debug\netcoreapp3.0\DelegateSolutions.dll
+C:\Users\Edilma\Desktop\C#Practice\DelegateSolutions\obj\Debug\netcoreapp3.0\DelegateSolutions.pdb
