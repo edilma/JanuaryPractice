@@ -29,8 +29,11 @@ class PaginationHelper:
       if page_index>maxPages or page_index<0:
           return -1
       else:
-          itemsPage = self.item_count()/self.page_count()
-          return itemsPage
+          if page_index == self.page_count()-1:
+              itemsPage = self.item_count() - (maxPages*items_per_page)
+          else:
+              itemsPage = self.items_per_page
+      return itemsPage
   
   # determines what page an item is on. Zero based indexes.
   # this method should return -1 for item_index values that are out of range
@@ -42,12 +45,13 @@ class PaginationHelper:
         return position
       
 def main():
-    collection = ['a','b','c','d','e','f']
+    collection = range(1,101)
 
     helper = PaginationHelper(collection,4)
     print ("Page Count is ", helper.page_count())
     print ("Item count is", helper.item_count())
-    print ("The number of items in page 4 is: {0}, -1 if that page doesn't exits ".format(helper.page_item_count(3)))
+    print ("The number of items in page 4 is: {0}, Answer is -1 if that page doesn't exits ".format(helper.page_item_count(3)))
+    #print("The items is in page  13 ", helper.page_item_count(13))
 
 if __name__ == "__main__":
     main()
